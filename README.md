@@ -12,4 +12,4 @@ The [input data](./data) in this analysis includes:
 
  3. An alignment of SARS-related coronavirus RBD sequences, including those from clades capable of ACE2 utilization as described in [this study](https://www.nature.com/articles/s41586-022-04464-z).
 
-The [Rmd script](./analyze_available_space.md) in this repository processes these data and sets thresholds for defining mutations that are tolerated functionally or observed at reasonable frequencies during pandemic SARS-CoV-2 or longer-term sarbecovirus evolution. These metrics are annotated as indiciator variables in the output file [here](./results/mutation-specs.csv)
+The [Rmd script](./analyze_available_space.md) in this repository processes these data and sets thresholds for defining mutations that are tolerated functionally or observed at reasonable frequencies during pandemic SARS-CoV-2 or longer-term sarbecovirus evolution. These metrics are annotated as indicator variables in the output file [here](./results/mutation-specs.csv)
